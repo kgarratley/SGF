@@ -1,0 +1,6 @@
+[submodule "SplunkApps"]
+	path = SplunkApps
+	url = https://github.com/kgarratley/SplunkApps.git
+[submodule "SplunkServer"]
+	path = SplunkServer
+	url = https://github.com/kgarratley/SplunkServer.git
